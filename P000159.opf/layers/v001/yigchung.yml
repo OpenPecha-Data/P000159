@@ -1,0 +1,100 @@
+id: 8cf1ba2084fa48d5a841897272d46407
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: fb21f164a1184cdaa9f85b279da7a2f8
+  span:
+    start: 1168
+    end: 1808
+- id: 27c86120e7f64c4a9652fa4bf78513fc
+  span:
+    start: 2500
+    end: 2560
+- id: 44de74a92eb345608550b541cbda71b4
+  span:
+    start: 2860
+    end: 2861
+- id: 29013517de4345c387d5f386714b6d20
+  span:
+    start: 3021
+    end: 3021
+- id: 370cab10c4c14bb1987ddec597e06564
+  span:
+    start: 3028
+    end: 3051
+- id: f4000f814ddb46788a70c5f6db7d1371
+  span:
+    start: 3081
+    end: 3082
+- id: 60abcc39a4c54476ab8f6ef0164f2089
+  span:
+    start: 3104
+    end: 3110
+- id: d0f0c9b21ae24c47ba942926cfacfb88
+  span:
+    start: 3153
+    end: 3153
+- id: 3af8b55090bd435d8cac53dc977d6bb2
+  span:
+    start: 3156
+    end: 3159
+- id: 0e9a294e03fa4d0cbaca35f16f540482
+  span:
+    start: 3215
+    end: 3215
+- id: ff9303b9bd5345a2aa21b7ec1723ab46
+  span:
+    start: 3219
+    end: 3232
+- id: 64969146185f498f9983c5ad18a266ac
+  span:
+    start: 4844
+    end: 4912
+- id: 27578366ff3a48c7837abfae70192300
+  span:
+    start: 6772
+    end: 6819
+- id: 46063297d4564e1087fdda5d2fabece9
+  span:
+    start: 30713
+    end: 30756
+- id: 499067a8b88c4ce4a7fd86c838c33899
+  span:
+    start: 37209
+    end: 37239
+- id: a5332083bf7f4e04be66ca2599aaaec2
+  span:
+    start: 37456
+    end: 37744
+- id: cd3419c627e8408ba173ce1f70873094
+  span:
+    start: 37746
+    end: 37806
+- id: 5cd97018fec64268a48f232fa8fe3a79
+  span:
+    start: 160355
+    end: 160361
+- id: 97c93e6f90b34352a68ac66e797e291a
+  span:
+    start: 172916
+    end: 172922
+- id: a3c447f72be0401f8dda2a01f7c3ec41
+  span:
+    start: 249084
+    end: 249142
+- id: cdaad5536209437b9b241430b22d5f68
+  span:
+    start: 409542
+    end: 409728
+- id: bc7f51a2cc9e49acbabe945224720c82
+  span:
+    start: 454203
+    end: 454218
+- id: 39a354d260c940828ba2d9240f4ed086
+  span:
+    start: 604373
+    end: 604395
+- id: facf5be10f8d47bca19836dceef1edb1
+  span:
+    start: 622203
+    end: 623269

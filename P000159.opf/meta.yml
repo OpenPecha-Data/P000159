@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །སྔ་འགྱུར་རྡོ་རྗེ་ཐེག་པ་གཙོ་བོར་གྱུར་པའི་སྒྲུབ་བརྒྱུད་ཤིང་རྟ་བརྒྱད་ཀྱི་བྱུང་བ་བརྗོད་པའི་གཏམ་མདོར་བསྡུས་ལེགས་བཤད་པདྨ་དཀར་པོའི་རྫིང་བུ་རིན་པོ་ཆེ་གཏེར་གྱི་མཛོད་ཆེན་པོ་ལས་འཕྲོས་པའི་གཏམ་ཉུང་གསལ་དྲང་པོར་བརྗོད་པ་ལྷའི་རྔ་སྒྲ་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-03
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A History of Buddhism
+    bo: ཆོས་འབྱུང་།༼ག༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 3
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༣
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-03
+  category:
+    en: History
+    bo: ལོ་རྒྱུས།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-03.epub
+  description:
+    en: ''
+    bo: ''
