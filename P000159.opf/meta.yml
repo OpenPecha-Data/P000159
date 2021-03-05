@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000159
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །སྔ་འགྱུར་རྡོ་རྗེ་ཐེག་པ་གཙོ་བོར་གྱུར་པའི་སྒྲུབ་བརྒྱུད་ཤིང་རྟ་བརྒྱད་ཀྱི་བྱུང་བ་བརྗོད་པའི་གཏམ་མདོར་བསྡུས་ལེགས་བཤད་པདྨ་དཀར་པོའི་རྫིང་བུ་རིན་པོ་ཆེ་གཏེར་གྱི་མཛོད་ཆེན་པོ་ལས་འཕྲོས་པའི་གཏམ་ཉུང་གསལ་དྲང་པོར་བརྗོད་པ་ལྷའི་རྔ་སྒྲ་བཅས།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-03
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-03
 web_metadata:
   title:
     en: A History of Buddhism
